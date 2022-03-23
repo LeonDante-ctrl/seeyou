@@ -9,3 +9,9 @@
     font-weight: bold;
     text-decoration: underline;
 }
+
+.navbar-brand
+{
+    color: rgb(31, 231, 13);
+    font-size: 30px;
+}
